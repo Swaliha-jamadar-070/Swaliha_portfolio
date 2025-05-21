@@ -1,4 +1,4 @@
- Swaliha Jamadar - Portfolio Website
+ Swaliha Jamadar - Portfolio
 
 A responsive and clean personal portfolio website to showcase my skills, projects, and contact information as a Computer Science student.
 
